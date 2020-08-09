@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="runtime">
-  <id>org.gtk.Gtk3theme.Flat-Remix-GTK-Red-Darker</id>
+  <id>org.gtk.Gtk3theme.Flat-Remix-GTK-Red-Darker-Solid</id>
   <metadata_license>GPL-3.0</metadata_license>
-  <name>Flat-Remix-GTK-Red-Darker</name>
+  <name>Flat-Remix-GTK-Red-Darker-Solid</name>
   <summary>A GTK application theme inspired by material design</summary>
   <description>
     <p>Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth. </p>
